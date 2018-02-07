@@ -1,0 +1,45 @@
+[devices]
+dev0 = 17265D8255 
+dev1 = 2f2b6c1
+dev2 = 3ea19c0a
+[device_types]
+dev0_type=cn80
+dev1_type=cn80
+dev2_type=cn80
+[general]
+debug_logging = on
+wifi_ssid = CH3U_SUCN_5G0
+wifi_identity = [EPAM Email]
+wifi_anonymous_identity =
+wifi_passwd = mobility
+sd_card = 9016-4EF8
+sd_card1 = 7B64-0E04
+google_id = honeywellcn51@gmail.com
+google_passwd = ct50honeywell
+time_zone = Shanghai
+name = Honeywell
+device_language = English (United States)
+new_wifi_ssid = CH3U_SWT1_CTS
+new_wifi_passwd = mobility
+hidden_wifi_ssid =
+hidden_wifi_passwd =
+location = Suzhou
+apn_name = 3gnet
+puk1 = 44571302
+puk2 = 50900900
+simlock_attempts = 3
+cn51_image = fastboot - CN51 - 74.01.00.0271D.zip
+ct50_image = HELSINKIAD_71.01.04.0015E.zip
+usb_relay_ip = 172.31.48.66
+usb_relay_ip2 = 172.31.48.67
+usb_relay_port = 5000
+access_point_ip=175.17.32.5
+access_point_ssid=D-Link
+access_point_id=steve
+access_point_anonymous_id=
+access_point_pwd=testing@777
+[number]
+contact_number_0 = 18625108794
+contact_number_1 = 15501454372
+contact_number_2 = 15695126928
+
